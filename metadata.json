@@ -1,0 +1,6 @@
+{
+  "name": "BoostUp Academy",
+  "description": "منصة تعليمية متطورة لتقديم دورات احترافية وتطوير المهارات وتحقيق الأهداف المهنية، مجهزة بنظام تفعيل الأكواد والشهادات المعتمدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

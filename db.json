@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "مدير الأكاديمية",
+      "email": "admin@boostup.com",
+      "role": "admin",
+      "created_at": "2026-06-25T15:30:29.533Z"
+    },
+    {
+      "id": 2,
+      "full_name": "أحمد الطالب",
+      "email": "student@boostup.com",
+      "role": "student",
+      "created_at": "2026-06-25T15:30:29.533Z"
+    }
+  ],
+  "passwords": {
+    "admin@boostup.com": "admin123",
+    "student@boostup.com": "student123"
+  },
+  "trainers": [],
+  "courses": [],
+  "lessons": [],
+  "enrollments": [],
+  "lesson_progress": [],
+  "certificates": [],
+  "articles": [],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "كيف أحصل على الشهادة؟",
+      "answer": "بمجرد إكمالك لجميع دروس الدورة ومقاطع الفيديو بنجاح بنسبة إنجاز 100%، سيقوم النظام تلقائياً بإنشاء شهادة إتمام خاصة بك وتحميلها في لوحة حسابك."
+    },
+    {
+      "id": 2,
+      "question": "هل تتوفر الدورات مدى الحياة؟",
+      "answer": "نعم، بمجرد الاشتراك في الدورة أو تفعيلها باستخدام كود التفعيل، ستحصل على وصول غير محدود للمحتوى مدى الحياة في أي وقت ومن أي مكان."
+    }
+  ],
+  "settings": {
+    "site_name": "BoostUp Academy",
+    "phone": "07722665576",
+    "telegram": "@BoostUp3",
+    "instagram": "https://www.instagram.com/boostup.eng",
+    "linkedin": "http://www.linkedin.com/in/alboostup-academy2024",
+    "facebook": "https://www.facebook.com/profile.php?id=61565657222438&mibextid=ZbWKwL",
+    "about_text": "BoostUp Academy منصة تعليمية متكاملة توفر محتوى تدريبي احترافي عالي الجودة بإشراف مدربين متخصصين لمساعدتك على تطوير مهاراتك الفنية والتسويقية وتحقيق أهدافك المهنية في سوق العمل الحديث."
+  },
+  "enrollment_codes": [],
+  "password_resets": []
+}
